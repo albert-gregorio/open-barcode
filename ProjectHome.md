@@ -1,0 +1,1 @@
+Open Barcode allows for the creation of UPC and EAN barcodes
